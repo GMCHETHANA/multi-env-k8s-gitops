@@ -1,0 +1,17 @@
+# Terraform state and cache
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Kubernetes config files
+.kube/
+
+# Editor files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
