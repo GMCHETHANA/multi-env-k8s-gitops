@@ -1,0 +1,12 @@
+resources:
+  - ../../base
+  - ingress.yaml
+
+nameSuffix: -staging
+namespace: staging
+
+
+
+
+
+

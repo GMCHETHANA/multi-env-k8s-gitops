@@ -1,0 +1,10 @@
+resources:
+  - ../../base
+  - ingress.yaml
+
+nameSuffix: -prod
+namespace: prod
+
+
+
+
